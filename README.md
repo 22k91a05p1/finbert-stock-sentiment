@@ -44,5 +44,5 @@ The system follows a **Producer-Consumer** architecture decoupled by a persisten
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/stock-sentiment-finbert.git](https://github.com/yourusername/stock-sentiment-finbert.git)
+git clone [https://github.com/yourusername/stock-sentiment-finbert.git](https://github.com/22k91a05p1/stock-sentiment-finbert.git)
 cd stock-sentiment-finbert
