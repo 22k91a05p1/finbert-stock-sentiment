@@ -17,7 +17,7 @@ The application is fully containerized using **Docker** and visualizes live tren
 ## 🏗️ Architecture
 The system follows a **Producer-Consumer** architecture decoupled by a persistent database layer.
 
-![Architecture Diagram](./assets/architecture_diagram.png)
+![Architecture Diagram](."C:\Users\DELL\OneDrive\Attachments\Desktop\architecture.png")
 
 1.  **Ingestion Layer:** Python script uses **PRAW** to stream comments from Reddit in real-time.
 2.  **Processing Layer:** **FinBERT** (Hugging Face) performs inference to classify sentiment (Positive, Negative, Neutral).
